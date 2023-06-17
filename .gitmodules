@@ -1,0 +1,3 @@
+[submodule "lvgl_spiffs_file_system/lvgl"]
+	path = lvgl_spiffs_file_system/lvgl
+	url = https://github.com/lvgl/lvgl.git
